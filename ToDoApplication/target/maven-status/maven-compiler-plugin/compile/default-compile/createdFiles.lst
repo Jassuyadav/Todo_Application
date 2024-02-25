@@ -1,0 +1,12 @@
+com\ToDoApplication\ToDoApplication\service\UserService.class
+com\ToDoApplication\ToDoApplication\controller\ToDoController.class
+com\ToDoApplication\ToDoApplication\enums\position.class
+com\ToDoApplication\ToDoApplication\service\ToDoService.class
+com\ToDoApplication\ToDoApplication\ToDoApplication.class
+com\ToDoApplication\ToDoApplication\model\User.class
+com\ToDoApplication\ToDoApplication\controller\UserController.class
+com\ToDoApplication\ToDoApplication\model\ToDo.class
+com\ToDoApplication\ToDoApplication\repository\UserRepository.class
+com\ToDoApplication\ToDoApplication\service\impl\ToDoServiceImpl.class
+com\ToDoApplication\ToDoApplication\service\impl\UserServiceImpl.class
+com\ToDoApplication\ToDoApplication\repository\ToDoRepository.class
